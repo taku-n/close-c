@@ -1,4 +1,4 @@
-#import "close.dll"
+#import "close-c.dll"
 void close(const double &CLOSE[]);
 #import
 
